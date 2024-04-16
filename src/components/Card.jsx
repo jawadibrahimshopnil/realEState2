@@ -1,7 +1,10 @@
 import { Link } from "react-router-dom";
+import AOS from "aos";
+import "aos/dist/aos.css";
+AOS.init();
 const Card = () => {
     return (
-        <div className="card w-96 bg-base-100 shadow-xl">
+        <div data-aos="fade-up" className="card w-96 bg-base-100 shadow-xl">
             <figure>
                 <img
                     src="https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
