@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 const Card = () => {
     return (
         <div className="card w-96 bg-base-100 shadow-xl">
@@ -10,26 +11,33 @@ const Card = () => {
             <div className="card-body">
                 <div>
                     <div className="badge badge-outline mr-1">Apartment</div>
-                    <div className="badge bg-green-300">Sale</div>
+                    <div className="badge badge-outline">Sale</div>
                 </div>
 
                 <h2 className="card-title text-green-600">$1,989-$2,000</h2>
-                <h2 className="card-title -mt-2">Luxury Beach House</h2>
-                <p className="flex gap-1">
-                    <span>
-                        <span className="font-bold">3</span> Bedroom
-                    </span>
-                    <span>
-                        <span className="font-bold">2</span> Bathroom
-                    </span>
-                </p>
-                <p>
-                    <span className="font-bold">Location:</span> Downtown, Nework
-                </p>
-                <div className="card-action justify-center">
-                    <button className="btn w-full bg-green-600 text-white">
-                        View Details
-                    </button>
+
+                <div>
+                    <h2 className="card-title -mt-2">Luxury Beach House</h2>
+                    <p>
+                        <span className="font-bold">Area:</span> 2000 sqft
+                    </p>
+                    <p>
+                        <span className="font-bold">Location:</span> Downtown,
+                        Nework
+                    </p>
+                </div>
+                <div>
+                    <h3 className="font-bold text-lg">Facilities:</h3>
+                    <ul className="list-disc">
+                        <li className="ml-4">3 Bedroom</li>
+
+                        <li className="ml-4">2 Bathroom</li>
+                    </ul>
+                </div>
+                <div className="card-action">
+                    <Link className="btn w-full bg-green-600 text-white">
+                        View Property
+                    </Link>
                 </div>
             </div>
         </div>
