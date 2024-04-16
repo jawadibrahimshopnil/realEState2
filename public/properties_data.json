@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "estate_title": "Sunrise Valley Homes",
+        "segment_name": "Residential",
+        "description": "Sunrise Valley Homes offer modern living in a picturesque setting. With spacious floor plans, contemporary amenities, and stunning views of the surrounding mountains, this community provides the perfect blend of comfort and natural beauty. Conveniently located near major tech companies, shopping centers, and renowned schools.",
+        "price": "$800,000",
+        "status": "sale",
+        "area": "2200 sq ft",
+        "location": "Sunrise Valley, California",
+        "facilities": ["Swimming Pool", "Fitness Center", "Clubhouse"],
+        "image": "https://ap.rdcpix.com/637371ffc2363e3a6aa61d0203906efbl-m668891908od-w480_h360_x2.webp"
+    },
+    {
+        "id": 2,
+        "estate_title": "Maple Grove Apartments",
+        "segment_name": "Residential",
+        "description": "Discover the warmth of Maple Grove Apartments, nestled in a friendly neighborhood surrounded by lush greenery. Each unit features spacious interiors, stylish finishes, and private balconies. Enjoy easy access to parks, schools, and shopping centers in the vibrant community of Maple Grove.",
+        "price": "$1,500/month",
+        "status": "rent",
+        "area": "1500 sq ft",
+        "location": "Maple Grove, New Jersey",
+        "facilities": ["Balcony", "Parking", "Pet-friendly"],
+        "image": "https://images1.apartments.com/i2/7Vs-YBKqSLTKgDenbCHxSGQbSEzKooOLfsimgOh4Y4w/117/734-charlotte-pl-nw-atlanta-ga-building-photo.jpg?p=1"
+    },
+    {
+        "id": 3,
+        "estate_title": "Oakwood Ridge Villas",
+        "segment_name": "Residential",
+        "description": "Experience the tranquility of Oakwood Ridge Villas, where panoramic mountain views and modern comforts await. Each villa boasts spacious layouts, upscale finishes, and private outdoor spaces. Conveniently situated near hiking trails, parks, and downtown Oakwood amenities.",
+        "price": "$900,000",
+        "status": "sale",
+        "area": "2800 sq ft",
+        "location": "Oakwood Ridge, Tennessee",
+        "facilities": ["Mountain Views", "Outdoor Patio", "Fire Pit"],
+        "image": "https://photos.zillowstatic.com/fp/028f2a6ae201d05a63a1e80366187729-p_e.webp"
+    },
+    {
+        "id": 4,
+        "estate_title": "Lakefront Haven",
+        "segment_name": "Residential",
+        "description": "Escape to Lakefront Haven, a serene retreat nestled along the shores of a pristine lake. Revel in stunning water views, private docks, and luxurious amenities. Whether you're fishing, boating, or simply unwinding by the water, Lakefront Haven offers the ultimate lakeside lifestyle.",
+        "price": "$1,200,000",
+        "status": "sale",
+        "area": "3500 sq ft",
+        "location": "Lakefront Haven, Michigan",
+        "facilities": ["Lake Views", "Private Dock", "Boat Launch"],
+        "image": "https://photos.zillowstatic.com/fp/028f2a6ae201d05a63a1e80366187729-p_e.wweb"
+    }
+    // {
+    //     "id": 5,
+    //     "estate_title": "Mountain Crest Residences",
+    //     "segment_name": "Residential",
+    //     "description": "Embrace the beauty of Mountain Crest Residences, a peaceful community nestled amidst rolling hills and majestic peaks. Each residence offers spacious interiors, gourmet kitchens, and breathtaking mountain vistas. Explore nearby hiking trails, parks, and community gatherings.",
+    //     "price": "$750,000",
+    //     "status": "sale",
+    //     "area": "2400 sq ft",
+    //     "location": "Mountain Crest, Colorado",
+    //     "facilities": ["Mountain Views", "Hiking Trails", "Community Park"],
+    //     "image": "mountain_crest_residences.jpg"
+    // },
+    // {
+    //     "id": 6,
+    //     "estate_title": "Riverfront Retreat",
+    //     "segment_name": "Residential",
+    //     "description": "Experience riverside living at its finest at Riverfront Retreat. Nestled along the banks of a scenic river, these luxury homes offer unparalleled water views and upscale amenities. Enjoy kayaking, fishing, and riverside picnics in your own private sanctuary.",
+    //     "price": "$1,100,000",
+    //     "status": "sale",
+    //     "area": "3200 sq ft",
+    //     "location": "Riverfront Retreat, Georgia",
+    //     "facilities": ["Waterfront Views", "Private Dock", "Community Pool"],
+    //     "image": "riverfront_retreat.jpg"
+    // }
+]
